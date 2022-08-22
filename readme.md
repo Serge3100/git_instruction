@@ -1,0 +1,5 @@
+numbers = []
+size = 
+
+while ():
+    if ():
