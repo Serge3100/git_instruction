@@ -4,10 +4,10 @@ sum = 0
 avg = 0
 index = 0
 
-while (index<size):
-sum += numbers[index]
-index += 1
+while ( index<size ):
+    sum += numbers[index]
+    index += 1
   
 avg = sum/size
 
-print ()
+print (avg)
